@@ -10,3 +10,12 @@ At the ThingsBoard login page use the following default credentials:
     Tenant Administrator: tenant@thingsboard.org / tenant
     
     Customer User: customer@thingsboard.org / customer
+
+
+# uses
+
+
+https://github.com/sfduff/sensors_thingsboard
+https://github.com/sfduff/mh-z19_thingsboard
+https://github.com/sfduff/bme280_thingsboard
+
